@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Giphy</string>
+    <string name="type_search_query_here">Type Search Query Here</string>
+    <string name="transition_gif">gifImage</string>
+    <string name="no_results_found">No results found</string>
+    <string name="giphy_gif_description">Animated gif from Giphy</string>
+
+
+    search_hint
+</resources>
